@@ -20,7 +20,6 @@ Home Assistant, n8n, MCP, OCR (Tesseract), LLM API.
 | **[listing-copy-agent](https://github.com/maxartk/listing-copy-agent)** | Dávkové texty pro e-shop (titulek, popis, meta, alt) s validací limitů a cache. Funguje i bez AI klíče. |
 | **[inbox-triage-agent](https://github.com/maxartk/inbox-triage-agent)** | Třídění zákaznických e-mailů, návrh odpovědi a **povinné lidské schválení** s auditní stopou. |
 | **[product-image-batch](https://github.com/maxartk/product-image-batch)** | Příprava produktových fotek: ořez, čtverec, resize bez rozmazání, bez EXIF, manifest pro import. |
-| **[pomocnik-app](https://github.com/maxartk/pomocnik-app)** | Android asistent pro údržbu — Kotlin + Jetpack Compose. |
 | **[fanuc-pendant-sim](https://github.com/maxartk/fanuc-pendant-sim)** | Simulátor pendantu FANUC pro výuku obsluhy. |
 
 Všechny repozitáře: MIT licence, testy, zelené CI (GitHub Actions).
